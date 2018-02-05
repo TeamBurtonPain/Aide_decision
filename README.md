@@ -1,7 +1,7 @@
 # Aide_decision
 Projet d'aide à la Décision sur MATLAB
 
-##Partie 1 **Optimisation monocritère**
+## Partie 1 **Optimisation monocritère**
 Différents responsables :
 	* Comptable
 	* Atelier
